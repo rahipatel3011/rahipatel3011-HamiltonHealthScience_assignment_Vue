@@ -21,7 +21,6 @@ This project is a multi-step form built with Vue.js 3 that collects user persona
 
 ## Installation
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/rahipatel3011/rahipatel3011-HamiltonHealthScience_assignment_Vue.git
   
